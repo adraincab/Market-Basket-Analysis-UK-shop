@@ -1,0 +1,2 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'JUMBO BAG PINK POLKADOT'}),frozenset({'JUMBO BAG RED RETROSPOT'}),0.06208817699683934,0.10381957465045268,0.042052820485348474,0.6773080241587576,6.5238951945157515,0.035606852358714594,2.777200836845255
